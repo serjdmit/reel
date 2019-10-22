@@ -1,0 +1,15 @@
+.Panel {
+    display: block;
+    padding: 10px;
+    border: 5px solid #fff;
+    background-color: #000;
+    border-radius: 10px;
+    width: 623px;
+    overflow: hidden;
+    vertical-align: top;
+    transform: rotateX(45deg);
+}
+
+.Balance {
+    color: #fff;
+}
